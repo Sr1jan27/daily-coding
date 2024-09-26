@@ -23,7 +23,7 @@ public class reportsppam {
         
     // }
 
-    public boolean reportSpam(String[] message, String[] bannedWords) {
+    public static boolean reportSpam(String[] message, String[] bannedWords) {
         int cns = 0;
         // for(int i=0;i<bannedWords.length;i++){
         //     for(int j=0;j<message.length;j++){
