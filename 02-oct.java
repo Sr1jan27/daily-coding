@@ -23,8 +23,7 @@ public class 02-oct {
 
             //new
             //extra
-            //  HERE 
-            //long
+            //  HE
         }
     }
     
