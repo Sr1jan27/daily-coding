@@ -25,7 +25,6 @@ public class 02-oct {
             //extra
             //  HERE 
             //long
-            // hung
         }
     }
     
