@@ -21,7 +21,6 @@ public class 02-oct {
             // hello 
             //lolng
 
-            //new
         }
     }
     
