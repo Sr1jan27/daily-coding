@@ -19,7 +19,6 @@ public class 02-oct {
             // hello 
 
             // hello 
-            //lolng
 
         }
     }
