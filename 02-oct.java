@@ -22,8 +22,6 @@ public class 02-oct {
             //lolng
 
             //new
-            //extra
-            //  HE
         }
     }
     
