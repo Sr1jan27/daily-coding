@@ -6,6 +6,8 @@ public class 02-oct {
             if(n == 1 || n == 2)return arr.get(n-1);
 
             
+
+            
             
             int[] b = {3, 2, 3, 3};
             int a = 3, j = 0;
