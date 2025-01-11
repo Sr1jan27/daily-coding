@@ -21,7 +21,7 @@ public class 02-oct {
 
 
             
-            
+
             
             for(int i = 0; i < 4; i++){
                 if(a+i == n)return arr.get(b[i]+j-1);
