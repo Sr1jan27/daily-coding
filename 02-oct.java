@@ -17,6 +17,21 @@ public class 02-oct {
             return 0;
 
 
+
+            solution to max substring no repeat
+
+                int start  = 0;
+            HashMap<Character, Integer> hm = new HashMap<>();
+            for(int end = 0;end<length;end++){
+                if(hm.containsKey(s.charAt(end) && hm.get(s.charAt(end))>=0){
+                    start = hm.get(s.charAt(end))+1;
+                }
+                else{
+                    hm.put(s.charAt(end), end);
+                    max = Math.max(
+                }
+            }
+
         }
     }
     
