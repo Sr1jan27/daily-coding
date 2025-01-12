@@ -22,15 +22,17 @@ public class 02-oct {
 
                 int start  = 0;
             HashMap<Character, Integer> hm = new HashMap<>();
+            int max = 0;
             for(int end = 0;end<length;end++){
                 if(hm.containsKey(s.charAt(end) && hm.get(s.charAt(end))>=0){
                     start = hm.get(s.charAt(end))+1;
                 }
                 else{
                     hm.put(s.charAt(end), end);
-                    max = Math.max(
+                    max = Math.max(max, end-start+1);
                 }
             }
+            return max;
 
         }
     }
