@@ -16,12 +16,6 @@ public class 02-oct {
             }
             return 0;
 
-
-
-            
-
-            
-            
             solution to max substring no repeat
 
                 int start  = 0;
