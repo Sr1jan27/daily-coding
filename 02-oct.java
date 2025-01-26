@@ -8,6 +8,8 @@ public class 02-oct {
             int a = 3, j = 0;
             while(a + 4 <= n){
 
+
+
                 
                 a += 4;
 
