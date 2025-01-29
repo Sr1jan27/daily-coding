@@ -7,12 +7,6 @@ public class 02-oct {
             int[] b = {3, 2, 3, 3}; 
             int a = 3, j = 0;
             while(a + 4 <= n){
-
-
-
-
-
-                
                 a += 4;
                 j++;
             }
