@@ -9,6 +9,8 @@ public class 02-oct {
             while(a + 4 <= n){
                 a += 4;
                 j++;
+
+                
             }
 
 
