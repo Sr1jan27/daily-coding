@@ -18,7 +18,6 @@ public class 02-oct {
 
                 int start  = 0;
 
-            
             HashMap<Character, Integer> hm = new HashMap<>();
             int max = 0;
             for(int end = 0;end<length;end++){
