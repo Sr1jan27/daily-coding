@@ -19,8 +19,7 @@ class Solution {
 
         
 
-    
-        
+
         l1.add(arr[arr.length-1]);
         int j=l1.size();
         while(j< arr.length)
