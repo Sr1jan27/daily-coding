@@ -14,8 +14,6 @@ public class 02-oct {
                 if(a+i == n)return arr.get(b[i]+j-1);
 
 
-
-    
             }
             return 0;
                 int start  = 0;
