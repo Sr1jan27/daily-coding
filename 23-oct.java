@@ -18,6 +18,8 @@ class Solution {
            temp=temp.next;
        }
 
+
+
         
        
        int sum=0;
