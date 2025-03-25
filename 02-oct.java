@@ -15,9 +15,6 @@ public class 02-oct {
             }
             return 0;
 
-
-            
-            
                 int start  = 0;
             HashMap<Character, Integer> hm = new HashMap<>();
             int max = 0;
