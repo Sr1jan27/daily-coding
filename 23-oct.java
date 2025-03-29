@@ -12,7 +12,6 @@ class Solution {
        }
        int diff=Math.abs(count-n);
        temp=head;
-       
        for(int i=1;i<=diff;i++){
            temp=temp.next;
        }
