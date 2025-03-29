@@ -10,7 +10,6 @@ class Solution {
            count++;
            temp=temp.next;
        }
-       
        int diff=Math.abs(count-n);
        temp=head;
        
