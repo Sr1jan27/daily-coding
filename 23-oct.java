@@ -17,11 +17,6 @@ class Solution {
        for(int i=1;i<=diff;i++){
            temp=temp.next;
        }
-
-
-
-        
-       
        int sum=0;
        while(temp!=null){
            sum+=temp.data;
