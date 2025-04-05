@@ -18,6 +18,8 @@ class Solution {
        int sum=0;
        while(temp!=null){
            sum+=temp.data;
+
+           
            temp=temp.next;
        }
        return sum;
