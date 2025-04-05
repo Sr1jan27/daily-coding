@@ -19,6 +19,9 @@ class Solution {
        while(temp!=null){
            sum+=temp.data;
 
+
+
+           
            
            temp=temp.next;
        }
