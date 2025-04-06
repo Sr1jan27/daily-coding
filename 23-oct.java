@@ -7,6 +7,7 @@ class Solution {
        Node temp=head;
        
        while(temp!=null){
+           
            count++;
            temp=temp.next
                ;
