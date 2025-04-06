@@ -8,7 +8,8 @@ class Solution {
        
        while(temp!=null){
            count++;
-           temp=temp.next;
+           temp=temp.next
+               ;
        }
        int diff=Math.abs(count-n);
        temp=head;
