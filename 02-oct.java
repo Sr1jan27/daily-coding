@@ -9,6 +9,7 @@ public class 02-oct {
             while(a + 4 <= n){
                 a += 4;
                 j++;   
+                
             }
             for(int i = 0; i < 4; i++){
                 if(a+i == n)return arr.get(b[i]+j-1);
