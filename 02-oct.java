@@ -5,6 +5,8 @@ public class 02-oct {
              int n = arr.size();
             if(n == 1 || n == 2)return arr.get(n-1);
             int[] b = {3, 2, 3, 3}; 
+
+            
             int a = 3, j = 0;
             while(a + 4 <= n){
                 a += 4;
