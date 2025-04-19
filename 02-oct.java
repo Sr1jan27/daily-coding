@@ -10,6 +10,8 @@ public class 02-oct {
                 a += 4;
 
                 j++;   
+
+                
                 
             }
             for(int i = 0; i < 4; i++){
